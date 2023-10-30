@@ -1,2 +1,2 @@
-# product-and-news-frontend
+# Product And News Frontend
 Under construction
